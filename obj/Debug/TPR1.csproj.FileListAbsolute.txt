@@ -1,0 +1,20 @@
+D:\Учеба\Теория принятия решений\TPR1\TPR1\bin\Debug\TPR1.exe.config
+D:\Учеба\Теория принятия решений\TPR1\TPR1\bin\Debug\TPR1.exe
+D:\Учеба\Теория принятия решений\TPR1\TPR1\bin\Debug\TPR1.pdb
+D:\Учеба\Теория принятия решений\TPR1\TPR1\obj\Debug\TPR1.csprojResolveAssemblyReference.cache
+D:\Учеба\Теория принятия решений\TPR1\TPR1\obj\Debug\TPR1.Form1.resources
+D:\Учеба\Теория принятия решений\TPR1\TPR1\obj\Debug\TPR1.Properties.Resources.resources
+D:\Учеба\Теория принятия решений\TPR1\TPR1\obj\Debug\TPR1.csproj.GenerateResource.Cache
+D:\Учеба\Теория принятия решений\TPR1\TPR1\obj\Debug\TPR1.csproj.CoreCompileInputs.cache
+D:\Учеба\Теория принятия решений\TPR1\TPR1\obj\Debug\TPR1.exe
+D:\Учеба\Теория принятия решений\TPR1\TPR1\obj\Debug\TPR1.pdb
+C:\university\ТПР\TPR1\TPR1\TPR1\bin\Debug\TPR1.exe.config
+C:\university\ТПР\TPR1\TPR1\TPR1\bin\Debug\TPR1.exe
+C:\university\ТПР\TPR1\TPR1\TPR1\bin\Debug\TPR1.pdb
+C:\university\ТПР\TPR1\TPR1\TPR1\obj\Debug\TPR1.csprojResolveAssemblyReference.cache
+C:\university\ТПР\TPR1\TPR1\TPR1\obj\Debug\TPR1.Form1.resources
+C:\university\ТПР\TPR1\TPR1\TPR1\obj\Debug\TPR1.Properties.Resources.resources
+C:\university\ТПР\TPR1\TPR1\TPR1\obj\Debug\TPR1.csproj.GenerateResource.Cache
+C:\university\ТПР\TPR1\TPR1\TPR1\obj\Debug\TPR1.csproj.CoreCompileInputs.cache
+C:\university\ТПР\TPR1\TPR1\TPR1\obj\Debug\TPR1.exe
+C:\university\ТПР\TPR1\TPR1\TPR1\obj\Debug\TPR1.pdb
